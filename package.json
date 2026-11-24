@@ -41,10 +41,10 @@
     "assertion-error": "^1.0.2",
     "aws-lambda-mock-context": "^3.0.1",
     "aws-sdk-mock": "^1.7.0",
-    "uuid": "^3.0.1"
+    "uuid": "^14.0.3"
   },
   "optionalDependencies": {
-    "i18next": "^7.0.0",
+    "i18next": "^27.2.6",
     "i18next-sprintf-postprocessor": "^0.2.2"
   },
   "peerDependencies": {
